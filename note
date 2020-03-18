@@ -1,0 +1,20 @@
+padding
+--------
+
+p-5 => p(1-5)
+pt-5    padding top
+t  top
+b bottom
+r right
+l letf
+----------
+
+px-5
+py-5
+x letf to right
+y top to bottom
+
+margin
+-------------
+
+m-5 => m-(1-5)
